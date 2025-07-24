@@ -1,0 +1,181 @@
+{
+  "episodic_memory": [
+    {
+      "prompt": "xbox controller",
+      "count": 0,
+      "confidence": 0,
+      "timestamp": "2025-07-24T03:34:37.675363"
+    },
+    {
+      "prompt": "scissors",
+      "count": 1,
+      "confidence": 0.2724462151527405,
+      "timestamp": "2025-07-24T03:34:41.791804",
+      "bbox": [
+        636,
+        292,
+        119,
+        148
+      ]
+    },
+    {
+      "prompt": "purple whiteboard",
+      "count": 1,
+      "confidence": 0.2985870838165283,
+      "timestamp": "2025-07-24T03:34:47.364089",
+      "bbox": [
+        649,
+        134,
+        59,
+        46
+      ]
+    },
+    {
+      "prompt": "screwdriver",
+      "count": 1,
+      "confidence": 0.28377002477645874,
+      "timestamp": "2025-07-24T03:34:51.653801",
+      "bbox": [
+        897,
+        426,
+        260,
+        340
+      ]
+    },
+    {
+      "prompt": "black clip",
+      "count": 2,
+      "confidence": 0.2837861329317093,
+      "timestamp": "2025-07-24T03:34:55.236688",
+      "bbox": [
+        503,
+        238,
+        101,
+        121
+      ]
+    },
+    {
+      "prompt": "white circular joystick",
+      "count": 2,
+      "confidence": 0.27686765789985657,
+      "timestamp": "2025-07-24T03:34:59.100199",
+      "bbox": [
+        987,
+        269,
+        34,
+        33
+      ]
+    }
+  ],
+  "semantic_memory": {
+    "xbox controller": {
+      "first_seen": "2025-07-24T03:34:37.675363",
+      "occurrences": 1,
+      "avg_confidence": 0.0,
+      "locations": []
+    },
+    "scissors": {
+      "first_seen": "2025-07-24T03:34:41.791804",
+      "occurrences": 1,
+      "avg_confidence": 0.2724462151527405,
+      "locations": [
+        [
+          636,
+          292,
+          119,
+          148
+        ]
+      ]
+    },
+    "purple whiteboard": {
+      "first_seen": "2025-07-24T03:34:47.364089",
+      "occurrences": 1,
+      "avg_confidence": 0.2985870838165283,
+      "locations": [
+        [
+          649,
+          134,
+          59,
+          46
+        ]
+      ]
+    },
+    "screwdriver": {
+      "first_seen": "2025-07-24T03:34:51.653801",
+      "occurrences": 1,
+      "avg_confidence": 0.28377002477645874,
+      "locations": [
+        [
+          897,
+          426,
+          260,
+          340
+        ]
+      ]
+    },
+    "black clip": {
+      "first_seen": "2025-07-24T03:34:55.236688",
+      "occurrences": 1,
+      "avg_confidence": 0.2837861329317093,
+      "locations": [
+        [
+          503,
+          238,
+          101,
+          121
+        ]
+      ]
+    },
+    "white circular joystick": {
+      "first_seen": "2025-07-24T03:34:59.100199",
+      "occurrences": 1,
+      "avg_confidence": 0.27686765789985657,
+      "locations": [
+        [
+          987,
+          269,
+          34,
+          33
+        ]
+      ]
+    }
+  },
+  "detection_stats": {
+    "xbox controller": {
+      "count": 1,
+      "confidence_sum": 0,
+      "last_seen": "2025-07-24T03:34:37.675363",
+      "avg_confidence": 0.0
+    },
+    "scissors": {
+      "count": 1,
+      "confidence_sum": 0.2724462151527405,
+      "last_seen": "2025-07-24T03:34:41.791804",
+      "avg_confidence": 0.2724462151527405
+    },
+    "purple whiteboard": {
+      "count": 1,
+      "confidence_sum": 0.2985870838165283,
+      "last_seen": "2025-07-24T03:34:47.364089",
+      "avg_confidence": 0.2985870838165283
+    },
+    "screwdriver": {
+      "count": 1,
+      "confidence_sum": 0.28377002477645874,
+      "last_seen": "2025-07-24T03:34:51.653801",
+      "avg_confidence": 0.28377002477645874
+    },
+    "black clip": {
+      "count": 1,
+      "confidence_sum": 0.2837861329317093,
+      "last_seen": "2025-07-24T03:34:55.236688",
+      "avg_confidence": 0.2837861329317093
+    },
+    "white circular joystick": {
+      "count": 1,
+      "confidence_sum": 0.27686765789985657,
+      "last_seen": "2025-07-24T03:34:59.100199",
+      "avg_confidence": 0.27686765789985657
+    }
+  }
+}
